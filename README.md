@@ -7,13 +7,9 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formaç�
 
 ## 💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com formação em Marketing e experiência em Customer Experience, atuando com análise de indicadores, melhoria de processos e foco no cliente.
+Profissional formada em Marketing e atualmente cursando Análise e Desenvolvimento de Sistemas, em transição para a área de tecnologia. Possui experiência com análise de processos, indicadores, KPIs, melhoria contínua, atendimento digital e integração entre áreas. Atua no desenvolvimento de projetos em HTML, CSS, JavaScript, UX/UI, Figma e GitHub. 
 
-Atualmente, estou desenvolvendo minha base em tecnologia por meio da faculdade e de estudos complementares em programação e experiência do usuário (UX/UI).
-
-Tenho como objetivo atuar na área de tecnologia, unindo desenvolvimento, visão de negócio e foco no usuário para construir soluções mais eficientes e intuitivas.
-
-🚀 Em busca da minha primeira oportunidade na área de tecnologia, com alto comprometimento com aprendizado e evolução contínua.
+Tem perfil analítico, foco em experiência do usuário, desenvolvimento front-end, resolução de problemas, automação de processos, levantamento de requisitos, documentação, testes, acessibilidade, wireframes, protótipos e melhoria da eficiência operacional.
 
 ---
 
